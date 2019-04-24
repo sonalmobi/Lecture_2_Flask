@@ -1,0 +1,9 @@
+<html>
+  <head>
+    <title>Swapnil And Sonal Website</title>
+  </head>
+  <body>
+    <h1>{{sonal}}</h1>
+  </body>
+  
+</html>
