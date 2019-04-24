@@ -34,3 +34,11 @@ def variable2():
 def myloop():
     myloop=["sona","sopu","vicky","dhanya"]
     return render_template("forloop.html",x=myloop)
+
+@ap.route("/pn")
+def mypune():
+    return render_template("pune.html")
+
+@ap.route("/nn")
+def mynandurbar():
+    return render_template("nandurbar.html")
